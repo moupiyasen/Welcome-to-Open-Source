@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+ # Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repository's link and tagging the owner (Ali Solanki)</li>
@@ -48,12 +48,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/moupiyasen">
+                    <img src="https://avatars.githubusercontent.com/u/240716121?v=4" width="100px;"
+                        alt="Moupiya Sen" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Moupiya Sen</b>
                     </sub>
                 </a>
             </td>
